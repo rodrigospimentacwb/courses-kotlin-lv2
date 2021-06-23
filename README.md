@@ -1,5 +1,5 @@
 # cursos-kotlin-nv1
-Kotlin Course Exercises: Getting Started and Object Orientation
+Kotlin Course Exercises: inheritance, polymorphism and interface
 
 ## Requirements
 
